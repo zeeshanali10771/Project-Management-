@@ -1,0 +1,1 @@
+These assignments and Project Documents is to related to the software project Management. In which all the project quality tools and techinques are used that how to schedule a project and how it is exectued theought the entire schedule time with knowing the risks that might occur in the process.
